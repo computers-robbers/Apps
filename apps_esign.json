@@ -4,6 +4,16 @@
   "sourceURL": "https://raw.githubusercontent.com/computers-robbers/Apps/main/apps.json",
   "apps": [
     {
+      "name": "Picsew",
+      "bundleIdentifier": "com.sugarmo.ScrollClip",
+      "version": "3.9.4",
+      "versionDate": "2024-03-20",
+      "size": 22116379,
+      "downloadURL": "https://github.com/computers-robbers/Apps/releases/download/1.02/Picsew-3.9.4.ipa",
+      "localizedDescription": "Picsew - Screenshot Stitching, injected with Pro.\nLast updated: 03-20-2024",
+      "iconURL": "https://raw.githubusercontent.com/computers-robbers/Apps/main/icons/com.sugarmo.ScrollClip.png"
+    },
+    {
       "name": "365Scores",
       "bundleIdentifier": "com.365scores.365scroesapp",
       "version": "5.9.10",
@@ -30,7 +40,7 @@
       "versionDate": "2024-03-17",
       "size": 151976777,
       "downloadURL": "https://github.com/computers-robbers/Apps/releases/download/1.0/Flightradar24-9.18.0.ipa",
-      "localizedDescription": "Injected with Gold. Flightradar24 stands as the leading live flight tracker, displaying air traffic as it happens in real-time. Note: You must log in first to use Gold features!\nLast updated: 03-16-2024",
+      "localizedDescription": "Injected with Gold. Flightradar24 stands as the leading live flight tracker, displaying air traffic as it happens in real-time. Note: You must log in first to use Gold features!\nLast updated: 03-19-2024",
       "iconURL": "https://raw.githubusercontent.com/computers-robbers/Apps/main/icons/se.resenatverket.FlightRadar24-Free.watchkitapp.png"
     },
     {
@@ -50,7 +60,7 @@
       "versionDate": "2024-03-17",
       "size": 136415435,
       "downloadURL": "https://github.com/computers-robbers/Apps/releases/download/1.0/Instagram-322.1.1.ipa",
-      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-17-2024",
+      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-19-2024",
       "iconURL": "https://raw.githubusercontent.com/computers-robbers/Apps/main/icons/com.burbn.instagram.png"
     },
     {
@@ -140,7 +150,7 @@
       "versionDate": "2024-03-17",
       "size": 247246634,
       "downloadURL": "https://github.com/computers-robbers/Apps/releases/download/1.0/TikTok-33.8.0.ipa",
-      "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: 03-12-2024",
+      "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: 03-19-2024",
       "iconURL": "https://raw.githubusercontent.com/computers-robbers/Apps/main/icons/com.zhiliaoapp.musically.png"
     },
     {
@@ -162,6 +172,36 @@
       "downloadURL": "https://github.com/computers-robbers/Apps/releases/download/1.0/YouTube-19.10.5.ipa",
       "localizedDescription": "A modified version of YouTube with additional features.\nLast updated: 02-28-2024",
       "iconURL": "https://raw.githubusercontent.com/computers-robbers/Apps/main/icons/com.google.ios.youtube.png"
+    },
+    {
+      "name": "Flightradar24",
+      "bundleIdentifier": "se.resenatverket.FlightRadar24-Free.watchkitapp",
+      "version": "9.19.0",
+      "versionDate": "2024-03-20",
+      "size": 151430872,
+      "downloadURL": "https://github.com/computers-robbers/Apps/releases/download/1.01/Flightradar24-9.19.0.ipa",
+      "localizedDescription": "Injected with Gold. Flightradar24 stands as the leading live flight tracker, displaying air traffic as it happens in real-time. Note: You must log in first to use Gold features!\nLast updated: 03-19-2024",
+      "iconURL": "https://raw.githubusercontent.com/computers-robbers/Apps/main/icons/se.resenatverket.FlightRadar24-Free.watchkitapp.png"
+    },
+    {
+      "name": "Instagram",
+      "bundleIdentifier": "com.burbn.instagram",
+      "version": "323.0.3",
+      "versionDate": "2024-03-20",
+      "size": 147709164,
+      "downloadURL": "https://github.com/computers-robbers/Apps/releases/download/1.01/Instagram-323.0.3.ipa",
+      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-19-2024",
+      "iconURL": "https://raw.githubusercontent.com/computers-robbers/Apps/main/icons/com.burbn.instagram.png"
+    },
+    {
+      "name": "TikTok",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "version": "33.9.0",
+      "versionDate": "2024-03-20",
+      "size": 252845041,
+      "downloadURL": "https://github.com/computers-robbers/Apps/releases/download/1.01/TikTok-33.9.0.ipa",
+      "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: 03-19-2024",
+      "iconURL": "https://raw.githubusercontent.com/computers-robbers/Apps/main/icons/com.zhiliaoapp.musically.png"
     }
   ]
 }
