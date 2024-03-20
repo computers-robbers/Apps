@@ -37,11 +37,18 @@
       "iconURL": "https://raw.githubusercontent.com/computers-robbers/Apps/main/icons/se.resenatverket.FlightRadar24-Free.watchkitapp.png",
       "versions": [
         {
+          "version": "9.19.0",
+          "date": "2024-03-20",
+          "size": 151430872,
+          "downloadURL": "https://github.com/computers-robbers/Apps/releases/download/1.01/Flightradar24-9.19.0.ipa",
+          "localizedDescription": "Injected with Gold. Flightradar24 stands as the leading live flight tracker, displaying air traffic as it happens in real-time. Note: You must log in first to use Gold features!\nLast updated: 03-19-2024"
+        },
+        {
           "version": "9.18.0",
           "date": "2024-03-17",
           "size": 151976777,
           "downloadURL": "https://github.com/computers-robbers/Apps/releases/download/1.0/Flightradar24-9.18.0.ipa",
-          "localizedDescription": "Injected with Gold. Flightradar24 stands as the leading live flight tracker, displaying air traffic as it happens in real-time. Note: You must log in first to use Gold features!\nLast updated: 03-16-2024"
+          "localizedDescription": "Injected with Gold. Flightradar24 stands as the leading live flight tracker, displaying air traffic as it happens in real-time. Note: You must log in first to use Gold features!\nLast updated: 03-19-2024"
         }
       ]
     },
@@ -65,11 +72,18 @@
       "iconURL": "https://raw.githubusercontent.com/computers-robbers/Apps/main/icons/com.burbn.instagram.png",
       "versions": [
         {
+          "version": "323.0.3",
+          "date": "2024-03-20",
+          "size": 147709164,
+          "downloadURL": "https://github.com/computers-robbers/Apps/releases/download/1.01/Instagram-323.0.3.ipa",
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-19-2024"
+        },
+        {
           "version": "322.1.1",
           "date": "2024-03-17",
           "size": 136415435,
           "downloadURL": "https://github.com/computers-robbers/Apps/releases/download/1.0/Instagram-322.1.1.ipa",
-          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-17-2024"
+          "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-19-2024"
         }
       ]
     },
@@ -191,11 +205,18 @@
       "iconURL": "https://raw.githubusercontent.com/computers-robbers/Apps/main/icons/com.zhiliaoapp.musically.png",
       "versions": [
         {
+          "version": "33.9.0",
+          "date": "2024-03-20",
+          "size": 252845041,
+          "downloadURL": "https://github.com/computers-robbers/Apps/releases/download/1.01/TikTok-33.9.0.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: 03-19-2024"
+        },
+        {
           "version": "33.8.0",
           "date": "2024-03-17",
           "size": 247246634,
           "downloadURL": "https://github.com/computers-robbers/Apps/releases/download/1.0/TikTok-33.8.0.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: 03-12-2024"
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: 03-19-2024"
         }
       ]
     },
