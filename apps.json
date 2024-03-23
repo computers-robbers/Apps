@@ -46,6 +46,27 @@
       ]
     },
     {
+      "name": "YouTube",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "iconURL": "https://raw.githubusercontent.com/computers-robbers/Apps/main/icons/com.google.ios.youtube.png",
+      "versions": [
+        {
+          "version": "19.10.7",
+          "date": "2024-03-23",
+          "size": 127240257,
+          "downloadURL": "https://github.com/computers-robbers/Apps/releases/download/1.03/YouTube-19.10.7.ipa",
+          "localizedDescription": "A modified version of YouTube with additional features.\nLast updated: 02-28-2024"
+        },
+        {
+          "version": "19.10.5",
+          "date": "2024-03-17",
+          "size": 136462747,
+          "downloadURL": "https://github.com/computers-robbers/Apps/releases/download/1.0/YouTube-19.10.5.ipa",
+          "localizedDescription": "A modified version of YouTube with additional features.\nLast updated: 02-28-2024"
+        }
+      ]
+    },
+    {
       "name": "Picsew",
       "bundleIdentifier": "com.sugarmo.ScrollClip",
       "iconURL": "https://raw.githubusercontent.com/computers-robbers/Apps/main/icons/com.sugarmo.ScrollClip.png",
@@ -287,20 +308,6 @@
           "size": 9000291,
           "downloadURL": "https://github.com/computers-robbers/Apps/releases/download/1.0/VPN-2.2.6.ipa",
           "localizedDescription": "Injected with Pro Features. VPN : Proxy Master; The best VPN app for iPhone and iPad to hide your IP address and browse anonymously online.\nLast updated: 01-27-2024"
-        }
-      ]
-    },
-    {
-      "name": "YouTube",
-      "bundleIdentifier": "com.google.ios.youtube",
-      "iconURL": "https://raw.githubusercontent.com/computers-robbers/Apps/main/icons/com.google.ios.youtube.png",
-      "versions": [
-        {
-          "version": "19.10.5",
-          "date": "2024-03-17",
-          "size": 136462747,
-          "downloadURL": "https://github.com/computers-robbers/Apps/releases/download/1.0/YouTube-19.10.5.ipa",
-          "localizedDescription": "A modified version of YouTube with additional features.\nLast updated: 02-28-2024"
         }
       ]
     }
