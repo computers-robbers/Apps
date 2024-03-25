@@ -4,6 +4,26 @@
   "sourceURL": "https://raw.githubusercontent.com/computers-robbers/Apps/main/apps.json",
   "apps": [
     {
+      "name": "Instagram",
+      "bundleIdentifier": "com.burbn.instagram",
+      "version": "324.0.4",
+      "versionDate": "2024-03-25",
+      "size": 140600674,
+      "downloadURL": "https://github.com/computers-robbers/Apps/releases/download/1.05/Instagram-324.0.4.ipa",
+      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-25-2024",
+      "iconURL": "https://raw.githubusercontent.com/computers-robbers/Apps/main/icons/com.burbn.instagram.png"
+    },
+    {
+      "name": "MADFUT24",
+      "bundleIdentifier": "com.madfut.madfut24",
+      "version": "1.1.2",
+      "versionDate": "2024-03-25",
+      "size": 175302210,
+      "downloadURL": "https://github.com/computers-robbers/Apps/releases/download/1.05/MADFUT24-1.1.2.ipa",
+      "localizedDescription": "Injected with Unlimited Coins & Packs. Brand new MADFUT 24 is here!\nLast updated: 03-25-2024",
+      "iconURL": "https://raw.githubusercontent.com/computers-robbers/Apps/main/icons/com.madfut.madfut24.png"
+    },
+    {
       "name": "iface",
       "bundleIdentifier": "com.babels.venie",
       "version": "2.29.2",
@@ -110,7 +130,7 @@
       "versionDate": "2024-03-17",
       "size": 136415435,
       "downloadURL": "https://github.com/computers-robbers/Apps/releases/download/1.0/Instagram-322.1.1.ipa",
-      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-19-2024",
+      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-25-2024",
       "iconURL": "https://raw.githubusercontent.com/computers-robbers/Apps/main/icons/com.burbn.instagram.png"
     },
     {
@@ -120,7 +140,7 @@
       "versionDate": "2024-03-17",
       "size": 167388956,
       "downloadURL": "https://github.com/computers-robbers/Apps/releases/download/1.0/MADFUT24-1.1.1.ipa",
-      "localizedDescription": "Injected with Unlimited Coins & Packs. Brand new MADFUT 24 is here!\nLast updated: 02-12-2024",
+      "localizedDescription": "Injected with Unlimited Coins & Packs. Brand new MADFUT 24 is here!\nLast updated: 03-25-2024",
       "iconURL": "https://raw.githubusercontent.com/computers-robbers/Apps/main/icons/com.madfut.madfut24.png"
     },
     {
@@ -240,7 +260,7 @@
       "versionDate": "2024-03-20",
       "size": 147709164,
       "downloadURL": "https://github.com/computers-robbers/Apps/releases/download/1.01/Instagram-323.0.3.ipa",
-      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-19-2024",
+      "localizedDescription": "Instagram, injected with Rocket Cracked (no ad banner, all features functional). To activate Rocket, follow these steps. Note: This also includes a new tweak: \"IGReelHider\" made by zxcvbn.\nLast updated: 03-25-2024",
       "iconURL": "https://raw.githubusercontent.com/computers-robbers/Apps/main/icons/com.burbn.instagram.png"
     },
     {
