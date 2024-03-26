@@ -4,6 +4,76 @@
   "sourceURL": "https://raw.githubusercontent.com/computers-robbers/Apps/main/apps.json",
   "apps": [
     {
+      "name": "TikTok",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "iconURL": "https://raw.githubusercontent.com/computers-robbers/Apps/main/icons/com.zhiliaoapp.musically.png",
+      "versions": [
+        {
+          "version": "33.9.1",
+          "date": "2024-03-26",
+          "size": 246068072,
+          "downloadURL": "https://github.com/computers-robbers/Apps/releases/download/1.06/TikTok-33.9.1.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: 03-26-2024"
+        },
+        {
+          "version": "33.9.0",
+          "date": "2024-03-20",
+          "size": 252845041,
+          "downloadURL": "https://github.com/computers-robbers/Apps/releases/download/1.01/TikTok-33.9.0.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: 03-26-2024"
+        },
+        {
+          "version": "33.8.0",
+          "date": "2024-03-17",
+          "size": 247246634,
+          "downloadURL": "https://github.com/computers-robbers/Apps/releases/download/1.0/TikTok-33.8.0.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: 03-26-2024"
+        }
+      ]
+    },
+    {
+      "name": "YouTube",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "iconURL": "https://raw.githubusercontent.com/computers-robbers/Apps/main/icons/com.google.ios.youtube.png",
+      "versions": [
+        {
+          "version": "19.12.3",
+          "date": "2024-03-26",
+          "size": 116384300,
+          "downloadURL": "https://github.com/computers-robbers/Apps/releases/download/1.06/YouTube-19.12.3.ipa",
+          "localizedDescription": "A modified version of YouTube with additional features.\nLast updated: 03-26-2024"
+        },
+        {
+          "version": "19.10.7",
+          "date": "2024-03-23",
+          "size": 127240257,
+          "downloadURL": "https://github.com/computers-robbers/Apps/releases/download/1.03/YouTube-19.10.7.ipa",
+          "localizedDescription": "A modified version of YouTube with additional features.\nLast updated: 03-26-2024"
+        },
+        {
+          "version": "19.10.5",
+          "date": "2024-03-17",
+          "size": 136462747,
+          "downloadURL": "https://github.com/computers-robbers/Apps/releases/download/1.0/YouTube-19.10.5.ipa",
+          "localizedDescription": "A modified version of YouTube with additional features.\nLast updated: 03-26-2024"
+        }
+      ]
+    },
+    {
+      "name": "YouTubeiPad",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "iconURL": "https://raw.githubusercontent.com/computers-robbers/Apps/main/icons/com.google.ios.youtube.png",
+      "versions": [
+        {
+          "version": "19.12.3",
+          "date": "2024-03-26",
+          "size": 127161949,
+          "downloadURL": "https://github.com/computers-robbers/Apps/releases/download/1.06/YouTubeiPad-19.12.3.ipa",
+          "localizedDescription": "A modified version of YouTube with additional features.\nLast updated: 03-26-2024"
+        }
+      ]
+    },
+    {
       "name": "Instagram",
       "bundleIdentifier": "com.burbn.instagram",
       "iconURL": "https://raw.githubusercontent.com/computers-robbers/Apps/main/icons/com.burbn.instagram.png",
@@ -112,27 +182,6 @@
           "size": 147555406,
           "downloadURL": "https://github.com/computers-robbers/Apps/releases/download/1.03/MuslimPro-15.2.1.ipa",
           "localizedDescription": "Injected with Premium. Experience the Love for Islam with Muslim Pro.\nLast updated: 03-23-2024"
-        }
-      ]
-    },
-    {
-      "name": "YouTube",
-      "bundleIdentifier": "com.google.ios.youtube",
-      "iconURL": "https://raw.githubusercontent.com/computers-robbers/Apps/main/icons/com.google.ios.youtube.png",
-      "versions": [
-        {
-          "version": "19.10.7",
-          "date": "2024-03-23",
-          "size": 127240257,
-          "downloadURL": "https://github.com/computers-robbers/Apps/releases/download/1.03/YouTube-19.10.7.ipa",
-          "localizedDescription": "A modified version of YouTube with additional features.\nLast updated: 03-22-2024"
-        },
-        {
-          "version": "19.10.5",
-          "date": "2024-03-17",
-          "size": 136462747,
-          "downloadURL": "https://github.com/computers-robbers/Apps/releases/download/1.0/YouTube-19.10.5.ipa",
-          "localizedDescription": "A modified version of YouTube with additional features.\nLast updated: 03-22-2024"
         }
       ]
     },
@@ -294,27 +343,6 @@
           "size": 124961271,
           "downloadURL": "https://github.com/computers-robbers/Apps/releases/download/1.0/Telegram-1.5.6.ipa",
           "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom.\nLast updated: 02-25-2024"
-        }
-      ]
-    },
-    {
-      "name": "TikTok",
-      "bundleIdentifier": "com.zhiliaoapp.musically",
-      "iconURL": "https://raw.githubusercontent.com/computers-robbers/Apps/main/icons/com.zhiliaoapp.musically.png",
-      "versions": [
-        {
-          "version": "33.9.0",
-          "date": "2024-03-20",
-          "size": 252845041,
-          "downloadURL": "https://github.com/computers-robbers/Apps/releases/download/1.01/TikTok-33.9.0.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: 03-19-2024"
-        },
-        {
-          "version": "33.8.0",
-          "date": "2024-03-17",
-          "size": 247246634,
-          "downloadURL": "https://github.com/computers-robbers/Apps/releases/download/1.0/TikTok-33.8.0.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: 03-19-2024"
         }
       ]
     },
